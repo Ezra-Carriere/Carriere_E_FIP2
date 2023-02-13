@@ -1,6 +1,6 @@
-# Project Name
+# Quatro Brand Redesign
 
-TODO: Write a project description
+The Quatro brand redesign
 
 ## Installation
 
